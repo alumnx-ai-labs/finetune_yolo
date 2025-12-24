@@ -1,0 +1,15 @@
+# Real-Time Object Detection to Edge - Requirements
+# Install with: pip install -r requirements.txt
+
+# YOLOv8 framework (includes PyTorch)
+ultralytics>=8.0.0
+
+# Computer vision library
+opencv-python>=4.8.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Optional but recommended
+Pillow>=9.0.0  # Image processing
+matplotlib>=3.7.0  # Visualization
